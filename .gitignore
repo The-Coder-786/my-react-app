@@ -1,0 +1,44 @@
+# Backend virtual environment
+backend/venv/
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# YOLO generated outputs
+runs/
+backend/runs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# AI training datasets
+backend/ai/final_dataset/
+backend/ai/datasets/
+backend/ai/runs/
+
+# Dependencies
+node_modules/
+**/node_modules/
+backend/venv/
+
+# Dataset archive
+backend/ai/final_dataset.zip

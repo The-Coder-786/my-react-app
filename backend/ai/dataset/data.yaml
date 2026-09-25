@@ -1,0 +1,11 @@
+path: C:/Users/shami/Documents/my-react-app/backend/ai/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: car
+  2: motorcycle
+  3: bicycle
+  4: helmet
