@@ -40,5 +40,5 @@ node_modules/
 **/node_modules/
 backend/venv/
 
-# Dataset archive
+
 backend/ai/final_dataset.zip
